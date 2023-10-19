@@ -315,6 +315,16 @@ footer {
   padding: 20px;
 }
 
+.enlace-portafolio {
+  font-weight: bold;
+  
+}
+
+.ver-mas-proyectos {
+  color: black;
+}
+
+
 /* Adaptable (Responsivo) */
 
 @media screen and (max-width: 400px) {
