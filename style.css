@@ -48,7 +48,7 @@ h1 {
 
 .seccion-texto {
   font-size: 1.2rem;
-  text-align: justify;
+  text-align: -webkit-center;
   padding: 8%;
   display: flex;
   justify-content: space-evenly;
