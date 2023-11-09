@@ -27,6 +27,7 @@ h1 {
 .seccion-oscura {
   color: white;
   background-color: #1b1b32;
+  margin: 0px 0px 0px 0px;
 }
 
 .seccion-clara {
