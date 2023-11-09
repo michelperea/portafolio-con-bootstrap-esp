@@ -95,8 +95,8 @@ h1 {
 /* Sobre mi */
 
 .sobre-mi {
-  height: 500px;
-  padding: 10px;
+    height: 136vh;
+    padding: 9px;
 }
 
 .sobre-mi .contenedor {
